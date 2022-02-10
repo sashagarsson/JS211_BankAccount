@@ -1,6 +1,6 @@
 # JS211_BankAccount
 
-##BankAccount class - This class represents a bank account.##
+## BankAccount class - This class represents a bank account.
 
 1. The class should have the following fields:
 
@@ -37,9 +37,9 @@ The class should have the following fields:
 - [ ] payee - The payee or description on the transaction
 *NOTE: The date is not passed into the constructor. The constructor should set the date to be the current date automatically.*
 
-#Push Yourself Further#
+# Push Yourself Further
 
-##SavingsAccount class - This class should extend the BankAccount class.##
+## SavingsAccount class - This class should extend the BankAccount class.
 
 The class should have an additional field:
 
