@@ -41,7 +41,7 @@
 
 ==NOTE: The date is not passed into the constructor. The constructor should set the date to be the current date automatically.==
 
-# Design three tests
+## Design three tests
 
 - [ ] bank account should have an account number, owner's name, and a transaction list
 - [ ] should create transaction correctly for a deposit
