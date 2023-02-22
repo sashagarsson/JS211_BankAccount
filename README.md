@@ -4,14 +4,14 @@
 
 ### 1. The class should have the following fields:
 
-- [ ] accountNumber - String representing the account number
-- [ ] owner - String representing the owner of the account
-- [ ] transactions - An array of transactions representing the history of all transactions associated with this account
+- [done ] accountNumber - String representing the account number
+- [ done] owner - String representing the owner of the account
+- [done ] transactions - An array of transactions representing the history of all transactions associated with this account
 
 - The constructor should take in the following input:
 
-- [ ] accountNumber - The account Number
-- [ ] owner - The name of the person who owns this account
+- [ done] accountNumber - The account Number
+- [ done] owner - The name of the person who owns this account
 
 **NOTE: When an account is created, you should initialize the transactions array to be an empty array**
 
@@ -30,9 +30,9 @@
 
 ### 1. The class should have the following fields:
 
-- [ ] date - The date of the transaction
-- [ ] amount - The amount of the transaction. Positive amounts are money going into the account (deposit, refund). Negative amounts are money coming out of the account (a charge or debit).
-- [ ] payee - The description or payee on the transaction
+- [done ] date - The date of the transaction
+- [done ] amount - The amount of the transaction. Positive amounts are money going into the account (deposit, refund). Negative amounts are money coming out of the account (a charge or debit).
+- [ done] payee - The description or payee on the transaction
 
 - The constructor should take in the following input:
 
